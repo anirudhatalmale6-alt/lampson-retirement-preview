@@ -1,0 +1,6 @@
+src/
+*.py
+shot_*.png
+m_*.png
+content.json
+txt_*.txt
